@@ -1,12 +1,12 @@
 {
   "images" : [
     {
-      "idiom" : "universal",
-      "filename" : "iphone-icon_180.pdf"
+      "filename" : "iphone_180.jpg",
+      "idiom" : "universal"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
